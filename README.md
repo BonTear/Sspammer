@@ -12,4 +12,4 @@
 > **I don't promote any illegal activity with this tool. It's only for entertainment purpose. So I will not be responsible for any illegal activity done by this tool.**
 ***
 # Preview:
-![Preview](https://user-images.githubusercontent.com/73626726/113452180-570b6f00-9425-11eb-8ff0-e779cc9a60eb.PNG)
+![Preview](https://user-images.githubusercontent.com/73626726/114920338-270f9300-9e4b-11eb-9352-7300954f77f3.PNG)
