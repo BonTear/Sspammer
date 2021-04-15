@@ -6,7 +6,7 @@
 * Then it will ask for the delay after every text. Leaving the option empty will set it to zero, which means zero seconds of delay after every text. You can also set a decimal number.
 * Then at the end, it will ask for how many lines do you want to spam. If you leave it empty it will keep going forever.
 * After setting all of that quickly press the text box where you want to spam within five seconds.
-* Remember you can always quit by selecting the "Sspammer.exe" window and pressing "Alt+F4".
+* Remember you can always quit by holding the "End" key.
 ***
 # WARNING: 
 > **I don't promote any illegal activity with this tool. It's only for entertainment purpose. So I will not be responsible for any illegal activity done by this tool.**
