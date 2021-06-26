@@ -1,5 +1,5 @@
 # Sspammer
-> A text spammer for Windows with multiple functions.
+> A text spammer for Windows.
 ***
 # How to use it?
 * At first, it will ask for the text you want to spam.
