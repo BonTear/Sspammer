@@ -11,5 +11,7 @@
 # WARNING: 
 > **I don't promote any illegal activities with this tool. It's only for entertainment purpose. So I will not be responsible for any illegal activities done by this tool.**
 ***
+# Thank You! 😊
+***
 # Preview:
 ![Preview](https://user-images.githubusercontent.com/73626726/114920338-270f9300-9e4b-11eb-9352-7300954f77f3.PNG)
