@@ -9,7 +9,7 @@
 * Remember, you can always quit by holding the "End" key.
 ***
 # Note!
-Don't move Sspammer.exe anywhere out of the folder. If needed you can create a shortcut of it.
+Keep all the files in the Same folder. If needed you can create a shortcut of Sspammer.exe.
 ***
 # WARNING: 
 > **I don't promote any illegal activities with this tool. It's only for entertainment purpose. So I will not be responsible for any illegal activities done by this tool.**
@@ -17,3 +17,4 @@ Don't move Sspammer.exe anywhere out of the folder. If needed you can create a s
 # Thank You! 😊
 ***
 # Preview:
+![Sspammer_Previed](https://user-images.githubusercontent.com/73626726/140490261-c50467db-4a72-450c-95fb-8bf27c2682d6.png)
