@@ -8,9 +8,6 @@
 * After setting all of the options, quickly select where you want to spam within five seconds.
 * Remember, you can always quit by holding the "End" key.
 ***
-# Note!
-Keep all the files in the Same folder. If needed you can create a shortcut of Sspammer.exe.
-***
 # WARNING: 
 > **I don't promote any illegal activities with this tool. It's only for entertainment purpose. So I will not be responsible for any illegal activities done by this tool.**
 ***
